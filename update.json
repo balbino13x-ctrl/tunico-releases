@@ -1,7 +1,7 @@
-﻿{
-    "version":  "3.0.1",
-    "download_url":  "https://github.com/balbino13x-ctrl/tunico-releases/releases/download/v3.0.1/Tunico-3.0.1.zip",
-    "downloadUrl":  "https://github.com/balbino13x-ctrl/tunico-releases/releases/download/v3.0.1/Tunico-3.0.1.zip",
-    "release_notes":  "Tunico 3.0.1  - Selo AUTO na lista de conversas (ao lado do horario) - Lista de grupos: marcados e com atividade recente primeiro - Automatico e manual nao disparam em audio / nota de voz - Performance do Auto otimizada - Proibidas so bloqueiam palavra/frase inteira  Atualize a extensao (Recarregar no Chrome) e de F5 no WhatsApp Web.",
-    "notes":  "Tunico 3.0.1  - Selo AUTO na lista de conversas (ao lado do horario) - Lista de grupos: marcados e com atividade recente primeiro - Automatico e manual nao disparam em audio / nota de voz - Performance do Auto otimizada - Proibidas so bloqueiam palavra/frase inteira  Atualize a extensao (Recarregar no Chrome) e de F5 no WhatsApp Web."
+{
+    "version":  "3.0.0",
+    "download_url":  "https://github.com/balbino13x-ctrl/tunico-releases/releases/download/v3.0.0/Tunico-3.0.0.zip",
+    "downloadUrl":  "https://github.com/balbino13x-ctrl/tunico-releases/releases/download/v3.0.0/Tunico-3.0.0.zip",
+    "release_notes":  "Tunico 3.0.0  * Selo AUTO na lista de conversas (ao lado do horario) * Lista de grupos: marcados e com atividade recente primeiro * Automatico e manual nao disparam em audio / nota de voz * Performance do Auto otimizada * Proibidas so bloqueiam palavra/frase inteira  Atualize a extensao (Recarregar no Chrome) e de F5 no WhatsApp Web.",
+    "notes":  "Tunico 3.0.0  * Selo AUTO na lista de conversas (ao lado do horario) * Lista de grupos: marcados e com atividade recente primeiro * Automatico e manual nao disparam em audio / nota de voz * Performance do Auto otimizada * Proibidas so bloqueiam palavra/frase inteira  Atualize a extensao (Recarregar no Chrome) e de F5 no WhatsApp Web."
 }
